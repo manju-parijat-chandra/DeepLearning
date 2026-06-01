@@ -3,7 +3,6 @@
 
 .vscode/settings.json
 .vscode/settings.json
-Customer_Churn_Prediction/keras_gpu
 DataBox/Churn_Modelling.csv
 DataBox/CollegePlacement.csv
 DataBox/Admission_Predict.csv
